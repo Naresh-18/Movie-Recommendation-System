@@ -1,0 +1,33 @@
+/* Custom CSS for Streamlit app */
+body {
+    background-color: #1e1e1e;
+    color: #ffffff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #ffffff;
+}
+
+.stButton > button {
+    background-color: #0066ff;
+    color: #ffffff;
+    border-radius: 8px;
+    padding: 8px 16px;
+}
+
+.stSelectbox {
+    background-color: #2b2b2b;
+    color: #ffffff;
+}
+
+.stImage > img {
+    border-radius: 8px;
+}
+
+.stMarkdown h1 {
+    color: #ffffff;
+}
+
+.stColumn {
+    padding: 10px;
+}
