@@ -72,4 +72,43 @@ They are merged on the `title` column to create a unified dataset with comprehen
 | **Similarity Metric** | Cosine Similarity |
 | **API**               | TMDB API for movie posters |
 
+---
+
+### 🚀 Setup to Run Locally:
+## 1️⃣ **Clone the Repository:**
+   ```bash
+   git clone https://github.com/yourusername/Movie-Recommendation-System.git
+   cd Movie-Recommendation-System
+   ```
+## 2️⃣ **Install Dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+   ```bash
+   requirements:
+    - streamlit
+    - pandas
+    - numpy
+    - scikit-learn
+    - requests
+    - pickle5
+   ```
+## 3️⃣ **Run the Streamlit App:**
+   ```bash
+   streamlit run app.py
+   ```
+## 4️⃣ **Explore Recommendations:**
+   Type a movie name in the dropdown and click Show Recommendation to get top 5 similar movies with posters.
+
+---
+
+### 🧩 **Example Output:**
+Input Movie: `The Lego Movie`
+Recommended Movies:
+  1.Wreck-It Ralph
+  2.Toy Story 3
+  3.Big Hero 6
+  4.Monsters University
+  5.The Lego Batman Movie
+   
      
