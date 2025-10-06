@@ -61,5 +61,15 @@ They are merged on the `title` column to create a unified dataset with comprehen
 ---
 
 ### 🧱 Tech Stack: 
- 
+
+| Component           | Technology       |
+|---------------------|------------------|
+| **Language**        | Python |
+| **Framework**       | Streamlit |
+| **Libraries**       | Pandas, NumPy, scikit-learn, Requests, Pickle |
+| **Data Source**     | TMDB 5000 Dataset |
+| **Vectorization**   | CountVectorizer |
+| **Similarity Metric** | Cosine Similarity |
+| **API**               | TMDB API for movie posters |
+
      
