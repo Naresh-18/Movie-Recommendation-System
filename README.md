@@ -32,5 +32,34 @@ They are merged on the `title` column to create a unified dataset with comprehen
 ## 🤖 **Recommendation Logic:**
 
    - When a movie is selected, retrieve its similarity scores.
-   - Sort and recommend the top 5 most similar movies. 
+   - Sort and recommend the top 5 most similar movies.
+
+## 🧾 **Model Persistence:**
+
+   - Store processed data for reuse:
+     ```bash
+     pickle.dump(new, open('movie_list.pkl', 'wb'))
+     pickle.dump(similarity, open('similarity.pkl', 'wb'))
+     ```
+--- 
+
+### 💻 Streamlit Web Application
+- An interactive web interface built using Streamlit allows users to:
+    - Select any movie from a dropdown list.
+    - View top 5 similar movie recommendations with posters.
+
+## 🎨 **UI Enhancements:**
+  - Custom CSS styling for a dark theme.
+  - Movie posters fetched via TMDB API.
+  - Responsive horizontal layout for recommended movie grid.
+    ```bash
+    st.header('Movie Recommender System')
+    selected_movie = st.selectbox("Type or select a movie", movie_list)
+    if st.button('Show Recommendation'):
+       recommend(selected_movie)
+    ```
+---
+
+### 🧱 Tech Stack: 
+ 
      
