@@ -110,5 +110,8 @@ Input Movie: `The Lego Movie`
    - Big Hero 6
    - Monsters University
    - The Lego Batman Movie
-   
-     
+
+---
+
+### 📸 App Preview:
+![App Screenshot](screenshots/app_ui.png)
