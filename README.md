@@ -102,13 +102,13 @@ They are merged on the `title` column to create a unified dataset with comprehen
 
 ---
 
-### 🧩 **Example Output:**
+### 🧩 Example Output:
 Input Movie: `The Lego Movie`
 - Recommended Movies:
-   1.Wreck-It Ralph
-   2.Toy Story 3
-   3.Big Hero 6
-   4.Monsters University
-   5.The Lego Batman Movie
+   - Wreck-It Ralph
+   - Toy Story 3
+   - Big Hero 6
+   - Monsters University
+   - The Lego Batman Movie
    
      
