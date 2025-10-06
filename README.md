@@ -123,3 +123,5 @@ Input Movie: `The Lego Movie`
   - Integrate Word2Vec or BERT embeddings for semantic similarity.
   - Deploy on Streamlit Cloud or Hugging Face Spaces.
   - Combine with collaborative filtering for hybrid recommendations.
+
+By following this README, you can understand the motivation behind the project, the technology stack used, implementation highlights, how to run the project locally, and potential areas for further improvement.
