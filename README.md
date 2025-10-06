@@ -114,4 +114,12 @@ Input Movie: `The Lego Movie`
 ---
 
 ### 📸 App Preview:
-![App Screenshot](screenshots/app_ui.png)
+![App Screenshot]([screenshots/app_ui.png](https://github.com/Naresh-18/Movie-Recommendation-System/blob/3dc1528ab8d34e40ae121d773d0448abd23af194/App_Preview.png))
+
+---
+
+### 🔮 Future Enhancements:
+  - Add TF-IDF Vectorizer for better context awareness.
+  - Integrate Word2Vec or BERT embeddings for semantic similarity.
+  - Deploy on Streamlit Cloud or Hugging Face Spaces.
+  - Combine with collaborative filtering for hybrid recommendations.
