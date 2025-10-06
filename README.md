@@ -1,2 +1,2 @@
 # Movie-Recommendation-System
-A content-based movie recommendation system using TMDB 5000 dataset. It combines movie metadata like genres, keywords, cast, crew, and overview into a single text feature, vectorizes it using CountVectorizer, and applies cosine similarity to suggest movies similar in content to the selected one.
+A content-based movie recommender using the TMDB 5000 dataset. It extracts features like genres, cast, crew, and keywords, builds similarity using CountVectorizer and cosine similarity, and provides interactive movie recommendations via Streamlit with poster images.
