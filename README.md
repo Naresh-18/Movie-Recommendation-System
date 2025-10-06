@@ -114,7 +114,7 @@ Input Movie: `The Lego Movie`
 ---
 
 ### 📸 App Preview:
-![App Screenshot](https://github.com/Naresh-18/Movie-Recommendation-System/blob/a16dc198e8cf500274007b89e8987b931e7da741/App_Preview.png)
+![App Screenshot](https://github.com/Naresh-18/Movie-Recommendation-System/blob/3e5da825a7ec64d25c5d42ea38439b7472c31d55/App_Preview.png)
 
 ---
 
